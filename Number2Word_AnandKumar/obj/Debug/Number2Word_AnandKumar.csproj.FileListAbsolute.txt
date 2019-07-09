@@ -1,0 +1,7 @@
+D:\Number2Word_AnandKumar\Number2Word_AnandKumar\bin\Debug\Number2Word_AnandKumar.exe.config
+D:\Number2Word_AnandKumar\Number2Word_AnandKumar\bin\Debug\Number2Word_AnandKumar.exe
+D:\Number2Word_AnandKumar\Number2Word_AnandKumar\bin\Debug\Number2Word_AnandKumar.pdb
+D:\Number2Word_AnandKumar\Number2Word_AnandKumar\obj\Debug\Number2Word_AnandKumar.csprojAssemblyReference.cache
+D:\Number2Word_AnandKumar\Number2Word_AnandKumar\obj\Debug\Number2Word_AnandKumar.csproj.CoreCompileInputs.cache
+D:\Number2Word_AnandKumar\Number2Word_AnandKumar\obj\Debug\Number2Word_AnandKumar.exe
+D:\Number2Word_AnandKumar\Number2Word_AnandKumar\obj\Debug\Number2Word_AnandKumar.pdb
